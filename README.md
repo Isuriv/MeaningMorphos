@@ -3,3 +3,5 @@ Selected technology words that have changed meaning between Early Modern English
 
 Meaning ('semantics')
 Morphos ('having such a form') - Greek Suffix
+
+To run this game for students, you must insert your own Grok Key in the appropriate region, in the Notebook to set up your own API. 
